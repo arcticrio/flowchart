@@ -153,6 +153,13 @@
 ![image](https://github.com/user-attachments/assets/7f4e9d93-0332-4b64-b9fe-6042aa91b709)
 
 
+# 41. Draw a flow chart to swap two numbers without using temp variable
+![image](https://github.com/user-attachments/assets/5ed0a484-099b-4937-a2d7-54a99fb120fe)
+
+
+
+
+
 
 
 

@@ -119,7 +119,9 @@
 ![image(3)](https://github.com/user-attachments/assets/76a1188d-48f8-43b5-a873-7d94fdf57f25)
 
 
+31.draw a flow chart to print factorial of given number
 
+![image](https://github.com/user-attachments/assets/008a7529-5fdd-4cfa-bbb7-7b23fb6f2c25)
 
 
 

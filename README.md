@@ -126,9 +126,9 @@
 # 32.draw a flow chart to print factors of given numbers
 ![image](https://github.com/user-attachments/assets/10de1822-8780-4c82-b267-347449e0ab44)
 
+# 33.draw a flow chart to print whether the given number is prime or not.
 
-
-
+![image](https://github.com/user-attachments/assets/e55affc3-59db-4078-95ea-f796cab7a486)
 
 
 

@@ -157,7 +157,11 @@
 ![image](https://github.com/user-attachments/assets/5ed0a484-099b-4937-a2d7-54a99fb120fe)
 
 
+# 42.Draw a flow chart to convert binary number to octal.
+![image](https://github.com/user-attachments/assets/8e511db4-560f-4534-b436-a67e72a78842)
 
+# 43. Draw a flow chart to convert binary number to hexa decima
+![image](https://github.com/user-attachments/assets/351d9714-8f87-4b21-9f6c-f570b54fa7d2)
 
 
 

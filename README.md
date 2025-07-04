@@ -139,6 +139,8 @@
 # 36.draw a flow chart to find GCD of two given numbers
 ![image](https://github.com/user-attachments/assets/4e150082-a436-4c5b-b6c2-c5fa03b79cb8)
 
+# 37.draw a flow chart to print chech whether the given number is palindrome or not.
+![image](https://github.com/user-attachments/assets/65beffcc-d44b-4b0a-a1d0-06dabae8d842)
 
 
 

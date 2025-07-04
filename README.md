@@ -130,6 +130,8 @@
 
 ![image](https://github.com/user-attachments/assets/e55affc3-59db-4078-95ea-f796cab7a486)
 
+# 34.draw a flow chart to print reverse of a given number.
+![image](https://github.com/user-attachments/assets/592dd524-375f-450b-b81d-1bbea6bac61d)
 
 
 

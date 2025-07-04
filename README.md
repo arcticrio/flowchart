@@ -136,7 +136,8 @@
 # 35.draw a flow chart to print febonacci series.
 ![image](https://github.com/user-attachments/assets/864a27f2-37b4-42f4-9e31-d0417375f3fd)
 
-
+# 36.draw a flow chart to find GCD of two given numbers
+![image](https://github.com/user-attachments/assets/4e150082-a436-4c5b-b6c2-c5fa03b79cb8)
 
 
 

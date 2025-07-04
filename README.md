@@ -142,6 +142,8 @@
 # 37.draw a flow chart to print chech whether the given number is palindrome or not.
 ![image](https://github.com/user-attachments/assets/65beffcc-d44b-4b0a-a1d0-06dabae8d842)
 
+# 38.draw a flow chart to check if a given year is a leapyear or not.
+![image](https://github.com/user-attachments/assets/850c4114-e113-49bf-8309-f8797d9ca1e1)
 
 
 

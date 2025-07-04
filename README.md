@@ -146,6 +146,13 @@
 ![image](https://github.com/user-attachments/assets/850c4114-e113-49bf-8309-f8797d9ca1e1)
 
 
+# 39.draw a flow chart to print decimal value of hexa number. 
+![image](https://github.com/user-attachments/assets/8fa6e4ba-85f1-47bb-a590-b264188fd9b5)
+
+# 40.draw a flow chart to print second largest number among four numbers
+![image](https://github.com/user-attachments/assets/7f4e9d93-0332-4b64-b9fe-6042aa91b709)
+
+
 
 
 

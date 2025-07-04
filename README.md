@@ -133,6 +133,8 @@
 # 34.draw a flow chart to print reverse of a given number.
 ![image](https://github.com/user-attachments/assets/592dd524-375f-450b-b81d-1bbea6bac61d)
 
+# 35.draw a flow chart to print febonacci series.
+![image](https://github.com/user-attachments/assets/864a27f2-37b4-42f4-9e31-d0417375f3fd)
 
 
 

@@ -161,7 +161,7 @@
 ![image](https://github.com/user-attachments/assets/8e511db4-560f-4534-b436-a67e72a78842)
 
 # 43. Draw a flow chart to convert binary number to hexa decima
-![image](https://github.com/user-attachments/assets/351d9714-8f87-4b21-9f6c-f570b54fa7d2)
+![image](https://github.com/user-attachments/assets/f52a4782-971c-48d3-9e5e-4416b3a9c8fd)
 
 
 

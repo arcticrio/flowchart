@@ -62,6 +62,74 @@
 
 ![image](https://github.com/user-attachments/assets/275d9502-74df-42d6-89a7-6d27c79da2c3)
 
+16. draw a flow chart to check wheather the value of flow chart no(10) follows Kirchoffs law.
+
+17. draw a flow chart to get age of a person to print wheather he is eligible for DL or not.
+
+![image](https://github.com/user-attachments/assets/0299805d-5530-4034-affa-ab833856fb55)
+
+18. draw a flow chart to get age of a person to print greeting message if age<=5 nice child, age<=10 nice kid, age<=15 teenagers, age<=25 young dynamic, age<=50 middle age, age<=50 old.
+![image](https://github.com/user-attachments/assets/f57709f2-0c5a-4f6f-ab28-8428546466dd)
+
+19. draw a flow chart to get wheather the given number is even or odd.
+
+![image](https://github.com/user-attachments/assets/6e9cfa06-f661-4c09-a683-22ec9d262e8b)
+
+20. draw a flow chart to print first 20 natural numbers.
+
+![image](https://github.com/user-attachments/assets/43baa931-57b6-4b94-9979-8f0ee3c887f2)
+
+21. draw a flow chart to print first 10 even numbers.
+
+![image](https://github.com/user-attachments/assets/dd9d2cc0-d1df-40dd-bf66-c689a08ca02b)
+
+22. draw a flow chart to print first 30 odd numbers.
+
+![image](https://github.com/user-attachments/assets/f02ef769-b1ae-4c68-8d72-d0468cdee7e8)
+
+23. draw a flow chart to print all the even numbers in range.
+
+![image](https://github.com/user-attachments/assets/84b0bb29-4bf1-4f39-9f5e-fa2a95a350c8)
+
+24. draw a flow chart to print first 20 even numbers in reverse order.
+
+![image](https://github.com/user-attachments/assets/55b9231e-3b70-4506-937e-ba3f70033ecf)
+
+25. draw a flow chart to print first n natural numbers in reverse order.
+![image](https://github.com/user-attachments/assets/a4d1761b-d94b-4574-afc9-98106e8844b6)
+
+
+26. draw a flow chart to print first n even numbers in reverse order.
+
+![image](https://github.com/user-attachments/assets/afad2179-d913-473e-9591-7f3a69edef82)
+
+27. draw a flow chart to print the series of 5,10,15,20,.........n numbers.
+![image](https://github.com/user-attachments/assets/fe7fe1c6-e10a-46e0-a8f6-6865f83d8372)
+
+28. draw a flow chart to print the series of numbers 2,4,4,8,6,12,8,16,10,20.
+
+![image(1)](https://github.com/user-attachments/assets/31101810-f9e5-42c6-8afb-e24059cd5ce2)
+
+29. draw a flow chart to print multiplication table of 3.
+
+![image(2)](https://github.com/user-attachments/assets/2747f18a-05f3-4e2e-8e3e-5ba0d39a37df)
+
+30. draw a flow chart to print first n multiplication table from 2.
+
+![image(3)](https://github.com/user-attachments/assets/76a1188d-48f8-43b5-a873-7d94fdf57f25)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

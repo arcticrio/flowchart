@@ -163,6 +163,8 @@
 # 43. Draw a flow chart to convert binary number to hexa decima
 ![image](https://github.com/user-attachments/assets/f52a4782-971c-48d3-9e5e-4416b3a9c8fd)
 
+# 44 .Draw a flow chart to take a string from the user and print all the combinations.
+![image](https://github.com/user-attachments/assets/ae12aa11-e913-4b89-ab32-af50c7d620e6)
 
 
 
